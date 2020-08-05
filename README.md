@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Co-founder at **Synapps**
 
-<img src="https://img.shields.io/static/v1?url=https://www.linkedin.com/in/thales-sarubbi-14325b3a/&label=&message=Thales+Sarubbi&color=26c3eb&style=for-the-badge&logo=LinkedIn&logoWidth=20" /> <img src="https://img.shields.io/static/v1?link=mailto:thalessarubbi@gmail.com&label=&message=thalessarubbi@gmail.com&color=26c3eb&style=for-the-badge&logo=Gmail&logoWidth=20&logoColor=white" />
+[![Linkedin Badge](https://img.shields.io/badge/-Thales%20Sarubbi-26c3eb?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thales-sarubbi-14325b3a/)](https://www.linkedin.com/in/thales-sarubbi/) [![Gmail Badge](https://img.shields.io/badge/-thalessarubbi@gmail.com-26c3eb?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:thalessarubbi@gmail.com)](mailto:thalessarubbi@gmail.com)
 
 Passionate about technology since I came in to this world. :heart_eyes: :computer:
 
