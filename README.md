@@ -21,7 +21,7 @@ Co-founder at **Synapps**
 
 Passionate about technology since I came in to this world. :heart_eyes: :computer:
 
-Addicted to the feeling of learnind something new, learning more and more every day to contribute however I can. :muscle:
+Addicted to the feeling of learning something new, learning more and more every day to contribute however I can. :muscle:
 
  <br/> :computer: &nbsp; My stack: ReactJS, Node.js, React Native & Typescript
- <br/> 💬  &nbsp; About me: Love technologies, games CS:GO and lots and lots of movies and TV series.
+ <br/> 💬  &nbsp; About me: Love technologies, games like CS:GO and lots and lots of movies and TV series.
