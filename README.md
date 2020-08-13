@@ -25,3 +25,8 @@ Addicted to the feeling of learning something new, learning more and more every 
 
  <br/> :computer: &nbsp; My stack: ReactJS, Node.js, React Native & Typescript
  <br/> 💬  &nbsp; About me: Love technologies, games like CS:GO and lots and lots of movies and TV series.
+ 
+ <p align="center">
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=thalessarubbi&show_icons=true&title_color=26c3eb&icon_color=26c3eb&text_color=fff&bg_color=4A494A"/>
+ </p>
