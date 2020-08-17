@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 
 # Thales Sarubbi
 
-Co-founder at **Synapps**
-
 [![Linkedin Badge](https://img.shields.io/badge/-Thales%20Sarubbi-26c3eb?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thales-sarubbi/)](https://www.linkedin.com/in/thales-sarubbi/) [![Gmail Badge](https://img.shields.io/badge/-thalessarubbi@gmail.com-26c3eb?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:thalessarubbi@gmail.com)](mailto:thalessarubbi@gmail.com)
 
 Passionate about technology since I came into this world. :heart_eyes: :computer:
